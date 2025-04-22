@@ -1,0 +1,27 @@
+.header {
+    
+}
+
+.nav {
+    
+}
+
+.nav-list {
+    display: flex;
+    column-gap: 40px;
+    align-items: center;
+}
+
+.items {
+    
+}
+
+.text {}
+
+.text-list {}
+
+.llist {}
+
+.img {
+    align-items: center;
+}
